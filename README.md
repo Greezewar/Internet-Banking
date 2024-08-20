@@ -14,4 +14,4 @@ Senha: senha1
 Usuário: usuario2
 Senha: senha2
 
-Observação: O saldo ficará salvo enquanto o Servidor está em execução, após o encerramento do processo, os valores voltarão ao padrão.
+Observação: O saldo ficará salvo enquanto o Servidor estiver em execução, após o encerramento do processo, os valores voltarão ao padrão.
